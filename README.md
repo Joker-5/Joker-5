@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/Scala-DC143C?style=for-the-badge&logo=scala&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=shell&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Kotlin-777BB4?style=for-the-badge&logo=kotlin&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white" height="25">
@@ -39,10 +38,12 @@
 <img src="https://img.shields.io/badge/springcloud-DC143C?style=for-the-badge&logo=springcloud&logoColor=white" height="25">
  
 <br>
+<!-- 
 <img src="https://img.shields.io/badge/thrift-FF6C37?style=for-the-badge&logo=thrift&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/proto%20buffer-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
+-->
 
 <!-- 
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
