@@ -13,26 +13,28 @@
 <p  align="center">
 
 <!-- Programming Language -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
-
+<img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/Scala-DC143C?style=for-the-badge&logo=scala&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Shell-00599C?style=for-the-badge&logo=shell&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Kotlin-777BB4?style=for-the-badge&logo=kotlin&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white" height="25">
 
 
 
 <br>
-<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/redis-DC143C?style=for-the-badge&logo=redis&logoColor=black" height="25">
+<img src="https://img.shields.io/badge/elasticsearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/spring-4EA94B?style=for-the-badge&logo=spring&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/springboot-316192?style=for-the-badge&logo=springboot&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/docker-0078D4?style=for-the-badge&logo=docker&logoColor=white" height="25">
+
 
 
 <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=jvm&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
