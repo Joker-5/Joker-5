@@ -27,34 +27,30 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/redis-DC143C?style=for-the-badge&logo=redis&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/elasticsearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/spring-4EA94B?style=for-the-badge&logo=spring&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/springboot-316192?style=for-the-badge&logo=springboot&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/docker-0078D4?style=for-the-badge&logo=docker&logoColor=white" height="25">
-
-
-
+<img src="https://img.shields.io/badge/kafka-07405E?style=for-the-badge&logo=kafka&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/rocketmq-F05032?style=for-the-badge&logo=rocketmq&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/netty-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25"> 
+ 
 <br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=jvm&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/spring-4EA94B?style=for-the-badge&logo=spring&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/springmvc-316192?style=for-the-badge&logo=springmvc&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/mybatis-316192?style=for-the-badge&logo=mybatis&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/springboot-316192?style=for-the-badge&logo=springboot&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/springcloud-DC143C?style=for-the-badge&logo=springcloud&logoColor=white" height="25">
+ 
+<br>
+<img src="https://img.shields.io/badge/thrift-FF6C37?style=for-the-badge&logo=thrift&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/proto%20buffer-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
+
+<!-- 
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25">
-
-
-<br>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" height="25">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Supabase&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
-
-
-
+-->
 
 
 
