@@ -16,9 +16,8 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/Scala-DC143C?style=for-the-badge&logo=scala&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/JavaScript-00599C?style=for-the-badge&logo=javascript&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Kotlin-777BB4?style=for-the-badge&logo=kotlin&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Kubernetes-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25">
 
 
 
@@ -28,7 +27,7 @@
 <img src="https://img.shields.io/badge/elasticsearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/kafka-07405E?style=for-the-badge&logo=kafka&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/rocketmq-F05032?style=for-the-badge&logo=rocketmq&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/netty-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/etcd-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25"> 
  
 <br>
 <img src="https://img.shields.io/badge/spring-4EA94B?style=for-the-badge&logo=spring&logoColor=white" height="25">
