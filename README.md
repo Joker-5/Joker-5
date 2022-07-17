@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on @Meituan
 
-- 🌱 I’m currently learning **Distributed System**
+- 🌱 I’m currently learning **MLOps**
 
 - 📫 How to reach me **zh2725284321@gmail.com**
 
