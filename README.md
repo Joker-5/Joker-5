@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend developer from China </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joker-5" alt="devded" /> </p>
 
-- 🔭 I’m currently working at @Meituan
+- 🔭 I’m currently working at Kuaishou
 
-- 🌱 I’m currently learning **Feature Store**
+- 🌱 I’m currently learning **Spark**
 
 - 📫 How to reach me **zh2725284321@gmail.com**
 
