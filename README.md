@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Kuaishou
 
-- 🌱 I’m currently learning **Spark**
+- 🌱 I’m currently learning **Flink**
 
 - 📫 How to reach me **zh2725284321@gmail.com**
 
