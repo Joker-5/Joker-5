@@ -76,10 +76,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=joker-5&count_private=true&show_icons=true&theme=buefy" alt="devded" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joker-5&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="devded" height="165" />
  </p> -->
-
+<!--
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joker-5&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=joker-5&theme=tokyonight" />
 </p>
+-->
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
