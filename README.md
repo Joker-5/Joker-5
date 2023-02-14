@@ -14,20 +14,16 @@
 
 <!-- Programming Language -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Golang-F7DF1E?style=for-the-badge&logo=go&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/Scala-DC143C?style=for-the-badge&logo=scala&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Kubernetes-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25">
-
-
+<img src="https://img.shields.io/badge/thrift-FF6C37?style=for-the-badge&logo=thrift&logoColor=white" height="25">
 
 <br>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/redis-DC143C?style=for-the-badge&logo=redis&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/elasticsearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/kafka-07405E?style=for-the-badge&logo=kafka&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/rocketmq-F05032?style=for-the-badge&logo=rocketmq&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/etcd-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/kafka-07405E?style=for-the-badge&logo=apache%20kafka&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/Netty-342B029?style=for-the-badge&logo=netty&logoColor=white" height="25">
  
 <br>
 <img src="https://img.shields.io/badge/spring-4EA94B?style=for-the-badge&logo=spring&logoColor=white" height="25">
@@ -37,12 +33,14 @@
 <img src="https://img.shields.io/badge/springcloud-DC143C?style=for-the-badge&logo=springcloud&logoColor=white" height="25">
  
 <br>
-<!-- 
-<img src="https://img.shields.io/badge/thrift-FF6C37?style=for-the-badge&logo=thrift&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/proto%20buffer-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
--->
+
+<img src="https://img.shields.io/badge/hadoop-FF6C37?style=for-the-badge&logo=apache%20hadoop&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/hive-F05032?style=for-the-badge&logo=apache%20hive&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/hbase-316192?style=for-the-badge&logo=hbase&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/spark-143?style=for-the-badge&logo=apache%20spark&logoColor=black&color=black&labelColor=green" height="25">
+<img src="https://img.shields.io/badge/flink-%23575757.svg?&style=for-the-badge&logo=apache%20flink&logoColor=important" height="25">
+<img src="https://img.shields.io/badge/clickhouse-316192?style=for-the-badge&logo=clickhouse&logoColor=white" height="25">
+
 
 <!-- 
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
